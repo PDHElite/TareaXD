@@ -1,0 +1,9 @@
+{
+  "name": "LeeryEscribir",
+  "runtime": "nodejs12.x",
+  "description": "Tarea2",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::279924672893:role/LeeryEscribir_lambda_function",
+  "environment": {}
+}
